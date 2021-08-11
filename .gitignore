@@ -1,3 +1,8 @@
 SKTSpringEx_01/.classpath
 .metadata/
 Servers/
+SKTSpringEx_01/.settings/org.eclipse.jdt.core.prefs
+SKTSpringEx_01/.settings/org.eclipse.m2e.core.prefs
+SKTSpringEx_01/.springBeans
+SKTSpringEx_01/bin/module-info.class
+SKTSpringEx_01/target/
