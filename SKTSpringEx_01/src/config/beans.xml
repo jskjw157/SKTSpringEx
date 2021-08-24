@@ -4,7 +4,9 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-3.2.xsd">
 	
 	<bean id ="hello" class="myspring.di.xml.Hello">
+		<!-- setName(name) -->
 		<property name="name" value="Spring"/>
+		<!-- setPrinter(Printer) -->
 		<property name="printer" ref="printer"/>
 		
 	</bean>
